@@ -1,3 +1,4 @@
 Change 1 – commit with message as “Change1 in File1”
 Change2 – commit with message as “Change2 in File1”
+Change3 - commit on idea branch
 Change4 - commit on master
